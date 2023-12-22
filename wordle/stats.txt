@@ -1,0 +1,8 @@
+CROWN           3      Yes
+CURVY           6      No
+STOMP           4      Yes
+FOYER           6      No
+CHECK           5      Yes
+MIGHT           6      Yes
+CLASS           3      Yes
+PLANE           6      Yes
