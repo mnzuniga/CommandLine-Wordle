@@ -1,7 +1,9 @@
-# CommandLine-Wordle
+# Terminal-Wordle
 
-Project from CSE-024: Advanced Programming  
+This project is part of CSE-024: Advanced Programming course.
 
-Written in C++
+**Language:** C++
 
-A C++ Command Line version of Wordle.
+## Description
+
+This is a C++ Command Line version of Wordle.
